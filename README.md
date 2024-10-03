@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://rui-martins23.github.io/Newbie__social-proof-section/]
 
 ## My process
 ### Built with
